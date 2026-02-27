@@ -50,7 +50,7 @@ This project transforms raw election data into an intuitive and insightful analy
 - Data Analytics & Business Analytics Project
 - Tool Used :
     - PowerBi Desktop
-## 🗂️ **DataSet Descirption**
+## 🗂️ **DataSet Description**
 This project is built using structured election datasets divided into multiple CSV files. Each dataset represents a different level of election analysis and is connected through a relational data model in Power BI.
 The Data is organised into the following files:
 
