@@ -2,7 +2,7 @@
 
 ---
 ## 📊 Introduction
-This project is a self-created interactive dashboard built entirely using Power BI Desktop, focused on delivering comprehensive insights into India Election 2024.
+This project is a interactive dashboard built entirely using Power BI Desktop, focused on delivering comprehensive insights into India Election 2024.
 The primary objective of this project is to provide stakeholders, analysts, and general viewers with a clear, data-driven understanding of election results, voting patterns, and key performance indicators across regions.
 
 ## 🎯 Project Objective
